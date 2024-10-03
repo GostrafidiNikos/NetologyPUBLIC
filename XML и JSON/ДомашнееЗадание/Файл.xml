@@ -1,0 +1,10 @@
+﻿<CatalogObject.Товары xmlns="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogObject.Товары">
+	<Ref>11544efe-80a9-11ef-b4a1-d09b36ed8391</Ref>
+	<DeletionMark>false</DeletionMark>
+	<Code>000000001</Code>
+	<Description>Фуфля</Description>
+	<Цена>1250</Цена>
+	<Артикул>123456789012345</Артикул>
+	<Бренд>Бублик</Бренд>
+	<Комментарий>Основной товар</Комментарий>
+</CatalogObject.Товары>
