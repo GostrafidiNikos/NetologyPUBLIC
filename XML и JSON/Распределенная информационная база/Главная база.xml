@@ -1,0 +1,10 @@
+﻿<v8msg:Message xmlns:v8msg="http://v8.1c.ru/messages">
+	<v8msg:Header>
+		<v8msg:ExchangePlan>Полный</v8msg:ExchangePlan>
+		<v8msg:To>ГЛ</v8msg:To>
+		<v8msg:From>ВН</v8msg:From>
+		<v8msg:MessageNo>6</v8msg:MessageNo>
+		<v8msg:ReceivedNo>6</v8msg:ReceivedNo>
+	</v8msg:Header>
+	<v8msg:Body/>
+</v8msg:Message>
